@@ -1,0 +1,11 @@
+﻿.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+vendor/
+composer.lock
+entregados/
+documentos/uploads/
+modulos/solicitudes/tmp/
+config.local.php
+.env
